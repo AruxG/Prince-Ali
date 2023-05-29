@@ -3,4 +3,4 @@ Android game in wich you will have to move ur movile device in order to fly arou
 Participated as programmer, UI Designer and Game Designer.
 Developed in Unity.
 
-https://github.com/AruxG/Prince-Ali/assets/48557378/d9e36d91-81cc-4349-9187-1af0ac44e5be
+https://github.com/AruxG/Prince-Ali/assets/48557378/f8930f96-59ba-4a63-86a9-32837135eec0
